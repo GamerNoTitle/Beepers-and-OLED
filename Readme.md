@@ -77,7 +77,7 @@ print	(mac)
 
 进行连接，密码通常为**micropythoN**
 
-这种连接方式，写入文件需要通过**[Webrep](.\webrepl-master\webrepl.html)**客户端来写入
+这种连接方式，写入文件需要通过Webrep客户端来写入
 
 打开客户端，点connect即可（同网条件下）
 
