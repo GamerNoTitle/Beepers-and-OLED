@@ -20,7 +20,7 @@
 
 放入文件夹，并且使用一下命令进行刷机（需要esptool，未安装请打开cmd输入pip install esptool进行安装）: 
 
-```python
+```
 esptool.py --port COM3 --baud 460800 write_flash --flash_size=detect -fm dio 0 esp8266-20180511-v1.9.4.bin
 ```
 
