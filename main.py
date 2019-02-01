@@ -18,7 +18,6 @@ display.fill(0)
 draw(bilibilitv.bilibilitv,0,0)
 display.show()
 
-
 tempo = 5
 tones = {
  'c': 262,
